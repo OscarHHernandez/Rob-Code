@@ -1,7 +1,9 @@
-<h1 align="center" style="color: blue;"> Rob<>Code </h1>
+    <h1 align="center"> Rob<>Code </h1>
     <section>
         <p><strong>PAQUETERIAS USADAS EN PYTHON</strong></p>
-        <a href="#"">PSERIAL</a>
+        <p><strong>PSERIAL</strong></p>
+        <a src="https://github.com/OscarHHernandez/Rob-Code/assets/146481192/b70a5a75-750a-4dd1-9e22-d74918ea4679"></a>
+    </section>
 
 #PAQUETERIAS USADAS EN PYTHON 
 -PSERIAL 
