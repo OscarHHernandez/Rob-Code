@@ -1,3 +1,8 @@
+style{
+h1{
+color:blue;
+}
+
 <h1 align="center">Rob<>Code</h1>
     <section>
         <h2>PAQUETERIAS USADAS EN PYTHON</h2>
