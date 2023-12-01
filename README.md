@@ -12,6 +12,6 @@
     <section>
         <p><strong>-SENSOR MQ</strong></p>
         <img src="https://github.com/OscarHHernandez/Rob-Code/assets/146481192/92be4b9f-9dee-49e2-a03b-b87043dfacbd" width="500px" alt="SENSOR MQ">
-        <p><strong>ARDUINO MEGA:</strong> Para la escala del proyecto utilizamos este Arduino, pero se puede utilizar cuaquier Arduino</p>
+        <p><strong>ARDUINO MEGA:</strong> Para la <i>escala</i> del proyecto utilizamos este Arduino, pero se puede utilizar cuaquier Arduino</p>
         <img src="https://github.com/OscarHHernandez/Rob-Code/assets/146481192/d885b207-5fca-4684-96c3-56458b611f0e" width="500px" alt="ARDUINO MEGA">
     </section>
