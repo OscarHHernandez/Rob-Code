@@ -1,4 +1,7 @@
-<h1 align="center"> Rob<>Code </h1>
+<h1 align="center" style="color: blue;"> Rob<>Code </h1>
+    <section>
+        <p><strong>PAQUETERIAS USADAS EN PYTHON</strong></p>
+        <a href="#"">PSERIAL</a>
 
 #PAQUETERIAS USADAS EN PYTHON 
 -PSERIAL 
