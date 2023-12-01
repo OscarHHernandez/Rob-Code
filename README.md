@@ -20,4 +20,6 @@
         <img src="https://github.com/OscarHHernandez/Rob-Code/assets/146481192/5f7143cc-cbe1-47e2-bbf1-0a1a79052f87" width="500px" alt="RESISTENCIA">
         <p><strong>-BUZZER</strong></p>
         <img src="https://github.com/OscarHHernandez/Rob-Code/assets/146481192/6d02be84-caae-4f73-9ae7-8d5e34fa6a66" width="500px" alt="BUZZER">
+        <p><strong>-LCD</strong></p>
+        <img src="https://github.com/OscarHHernandez/Rob-Code/assets/146481192/0d7a4bfe-b642-43ba-a0c6-7181ab308f10" width="500px" alt="LCD">
     </section>
