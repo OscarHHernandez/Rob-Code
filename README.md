@@ -1,6 +1,6 @@
 <h1 align="center">Rob<>Code</h1>
     <section>
-        <h2 padding-left="30px">PAQUETERIAS USADAS EN PYTHON</h2>
+        <h2>PAQUETERIAS USADAS EN PYTHON</h2>
         <p><strong>-PSERIAL</strong></p>
         <img src="https://github.com/OscarHHernandez/Rob-Code/assets/146481192/b70a5a75-750a-4dd1-9e22-d74918ea4679" width=500px alt="PSERIAL">
         <p><strong>-PMATPLOIT</strong></p>
