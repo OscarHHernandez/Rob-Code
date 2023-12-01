@@ -1,6 +1,6 @@
 <h1 align="center">Rob<>Code</h1>
     <section>
-        <p><strong>PAQUETERIAS USADAS EN PYTHON</strong></p>
+        <h2 padding-left="30px">PAQUETERIAS USADAS EN PYTHON</h2>
         <p><strong>-PSERIAL</strong></p>
         <img src="https://github.com/OscarHHernandez/Rob-Code/assets/146481192/b70a5a75-750a-4dd1-9e22-d74918ea4679" width=500px alt="PSERIAL">
         <p><strong>-PMATPLOIT</strong></p>
@@ -8,7 +8,7 @@
         <p><strong>-TIME</strong></p>
         <img src="https://github.com/OscarHHernandez/Rob-Code/assets/146481192/0b4ca74f-1fd4-467d-a76f-e7c55991bf7e" width=500px alt="TIME">
     </section>
-    <h2 align="center">EQUIPO DE ROBOTICA UTILIZADO</h2>
+    <h3 align="center">EQUIPO DE ROBOTICA UTILIZADO</h3>
     <section>
         <p><strong>-SENSOR MQ</strong></p>
         <img src="https://github.com/OscarHHernandez/Rob-Code/assets/146481192/92be4b9f-9dee-49e2-a03b-b87043dfacbd" width="500px" alt="SENSOR MQ">
