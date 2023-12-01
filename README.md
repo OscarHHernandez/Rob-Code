@@ -15,3 +15,4 @@
         <p><strong>ARDUINO MEGA:</strong> Para la <i>escala</i> del proyecto utilizamos este Arduino, pero se puede utilizar cuaquier Arduino</p>
         <img src="https://github.com/OscarHHernandez/Rob-Code/assets/146481192/d885b207-5fca-4684-96c3-56458b611f0e" width="500px" alt="ARDUINO MEGA">
     </section>
+
