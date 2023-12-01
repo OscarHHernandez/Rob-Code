@@ -2,7 +2,7 @@
     <section>
         <p><strong>PAQUETERIAS USADAS EN PYTHON</strong></p>
         <p><strong>PSERIAL</strong></p>
-        <img src="https://github.com/OscarHHernandez/Rob-Code/assets/146481192/b70a5a75-750a-4dd1-9e22-d74918ea4679" width=200px alt="PSERIAL">
+        <img src="https://github.com/OscarHHernandez/Rob-Code/assets/146481192/b70a5a75-750a-4dd1-9e22-d74918ea4679" width=500px alt="PSERIAL">
     </section>
 
 #PAQUETERIAS USADAS EN PYTHON 
